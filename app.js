@@ -47,6 +47,13 @@ const work = [
         img: 'img/flycast-full.png',
         url: '#',
         plataform: 'Wordpress - DESARROLLO CUSTOM'
+    },
+    {
+        id: 'ecoalpha',
+        name: 'Eco Alpha',
+        img: 'img/ecoalpha-full.png',
+        url: 'https://belusinchu86.wixsite.com/ecoalpha',
+        plataform: 'Wix - DESARROLLO CUSTOM'
     }
 ]
 
