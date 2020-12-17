@@ -40,6 +40,13 @@ const work = [
         img: 'img/itechno-full.png',
         url: 'http://i-techno.com.ar/',
         plataform: 'Joomla'
+    },
+    {
+        id: 'flycast',
+        name: 'Flycast Mode',
+        img: 'img/flycast-full.png',
+        url: '#',
+        plataform: 'Wordpress - DESARROLLO CUSTOM'
     }
 ]
 
